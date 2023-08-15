@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\bin\Debug\Ejercicion.exe.config
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\bin\Debug\Ejercicion.exe
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\bin\Debug\Ejercicion.pdb
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.Form1.resources
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.exe
+C:\Users\Estudiante\source\repos\progra.1-A1-20231\Ejercicion\obj\Debug\Ejercicion.pdb
